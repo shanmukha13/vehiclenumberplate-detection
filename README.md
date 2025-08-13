@@ -2,10 +2,6 @@
 
 Detect vehicles and read license plates from images or videos using YOLOv8 for detection and EasyOCR for text extraction. Includes a minimal Streamlit web app and an offline pipeline to generate annotated videos.
 
-### Demo
-
-[Watch on YouTube: Automatic number plate recognition with Python, YOLOv8 and EasyOCR](https://www.youtube.com/watch?v=fyJB1t0o0ms)
-
 ### Data
 
 The sample video used in the tutorial is available on Pexels: [Traffic flow in the highway](https://www.pexels.com/video/traffic-flow-in-the-highway-2103099/).
