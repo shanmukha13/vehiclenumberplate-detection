@@ -4,7 +4,7 @@ Detect vehicles and read license plates from images or videos using YOLOv8 for d
 
 ### Data
 
-The sample video used in the tutorial is available on Pexels: [Traffic flow in the highway](https://www.pexels.com/video/traffic-flow-in-the-highway-2103099/).
+The sample video used in this project is available on Pexels: [Traffic flow in the highway](https://www.pexels.com/video/traffic-flow-in-the-highway-2103099/).
 
 ## Quick start
 
